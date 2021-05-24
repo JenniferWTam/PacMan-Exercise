@@ -1,7 +1,7 @@
 # Pacman-Exercise
 ## Description
 ### Working with the DOM in JavaScript to Add Animation To Maps
-<img src= "./images/PacMan1.png" width='50'/><img src= "./images/PacMan2.png" width='50'/><img src= "./images/PacMan1.png" width='50'/><img src= "./images/PacMan2.png" width='50'/><img src= "./images/PacMan1.png" width='50'/><img src= "./images/PacMan2.png" width='50'/><img src= "./images/PacMan1.png" width='50'/><img src= "./images/PacMan2.png" width='50'/><img src= "./images/PacMan1.png" width='50'/><img src= "./images/PacMan2.png" width='50'/>
+<img src= "./images/PacMan1.png" width='50'/><img src= "./images/PacMan2.png" width='50'/><img src= "./images/PacMan1.png" width='50'/><img src= "./images/PacMan2.png" width='50'/><img src= "./images/PacMan1.png" width='50'/><img src= "./images/PacMan2.png" width='50'/><img src= "./images/PacMan1.png" width='50'/><img src= "./images/PacMan2.png" width='50'/><img src= "./images/PacMan1.png" width='50'/><img src= "./images/PacMan2.png" width='50'/><img src= "./images/PacMan1.png" width='50'/><img src= "./images/PacMan2.png" width='50'/><img src= "./images/PacMan1.png" width='50'/><img src= "./images/PacMan2.png" width='50'/><img src= "./images/PacMan1.png" width='50'/><img src= "./images/PacMan2.png" width='50'/><img src= "./images/PacMan1.png" width='50'/><img src= "./images/PacMan2.png" width='50'/><img src= "./images/PacMan1.png" width='50'/><img src= "./images/PacMan2.png" width='50'/>
 We used the MBTA bus data to determine stops between Harvard & MIT, adding animated markers on the map to highlight bus routes.
 
 ## Steps to Run
