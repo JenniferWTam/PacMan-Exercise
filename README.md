@@ -1,16 +1,17 @@
 # Pacman-Exercise
 ## Description
 ### If you've ever played an arcade game, then you're familiar with Pac-Man!
+<center>We are not building the full PacMan game in this activity. However, we will be building a feature of this game, which displays and moves PacMan from one side of the screen to the other.</center>
+
 <img src= "./images/PacMan1.png" width='50'/><img src= "./images/PacMan2.png" width='50'/><img src= "./images/PacMan1.png" width='50'/><img src= "./images/PacMan2.png" width='50'/><img src= "./images/PacMan1.png" width='50'/><img src= "./images/PacMan2.png" width='50'/><img src= "./images/PacMan1.png" width='50'/><img src= "./images/PacMan2.png" width='50'/><img src= "./images/PacMan1.png" width='50'/><img src= "./images/PacMan2.png" width='50'/><img src= "./images/PacMan1.png" width='50'/><img src= "./images/PacMan2.png" width='50'/><img src= "./images/PacMan1.png" width='50'/><img src= "./images/PacMan2.png" width='50'/><img src= "./images/PacMan1.png" width='50'/><img src= "./images/PacMan2.png" width='50'/>
 
-We are not building the full PacMan game in this activity. However, we will be building a feature of this game, which displays and moves PacMan from one side of the screen to the other.
 
 ## Steps to Run
 Ensure you have the following files downloaded from this repository onto your local machine and saved into the same file directory.
 <ul>
   <li>index.html</li>
   <li>pacman.js</li>
-  <li>images</li><i>along with all the photos in this folder</i>
+  <li>images</li><i>(along with all the photos in this folder)</i>
 </ul>
 Drag and drop the index.html into your web browser
 
@@ -18,7 +19,7 @@ Drag and drop the index.html into your web browser
 " target="__blank">Pacman-Exercise</a>
 
 ## Future Improvements
-I would like to display the estimated arrival time of the busses to the subsequent stops. 
+I would like be able to add a yellow circle in front of Pacman's mouth to emulate the original Pacman games a little more.
 
 ## License Information
 MIT License
