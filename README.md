@@ -1,7 +1,7 @@
 # Pacman-Exercise
 ## Description
 ### If you've ever played an arcade game, then you're familiar with Pac-Man!
-<center>We are not building the full PacMan game in this activity. However, we will be building a feature of this game, which displays and moves PacMan from one side of the screen to the other.</center>
+We are not building the full PacMan game in this activity. However, we will be building a feature of this game, which displays and moves PacMan from one side of the screen to the other.
 
 <img src= "./images/PacMan1.png" width='50'/><img src= "./images/PacMan2.png" width='50'/><img src= "./images/PacMan1.png" width='50'/><img src= "./images/PacMan2.png" width='50'/><img src= "./images/PacMan1.png" width='50'/><img src= "./images/PacMan2.png" width='50'/><img src= "./images/PacMan1.png" width='50'/><img src= "./images/PacMan2.png" width='50'/><img src= "./images/PacMan1.png" width='50'/><img src= "./images/PacMan2.png" width='50'/><img src= "./images/PacMan1.png" width='50'/><img src= "./images/PacMan2.png" width='50'/><img src= "./images/PacMan1.png" width='50'/><img src= "./images/PacMan2.png" width='50'/><img src= "./images/PacMan1.png" width='50'/><img src= "./images/PacMan2.png" width='50'/>
 
