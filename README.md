@@ -1,20 +1,20 @@
 # Pacman-Exercise
 ## Description
-### Working with the DOM in JavaScript to Add Animation To Maps
+### If you've ever played an arcade game, then you're familiar with Pac-Man!
 <img src= "./images/PacMan1.png" width='50'/><img src= "./images/PacMan2.png" width='50'/><img src= "./images/PacMan1.png" width='50'/><img src= "./images/PacMan2.png" width='50'/><img src= "./images/PacMan1.png" width='50'/><img src= "./images/PacMan2.png" width='50'/><img src= "./images/PacMan1.png" width='50'/><img src= "./images/PacMan2.png" width='50'/><img src= "./images/PacMan1.png" width='50'/><img src= "./images/PacMan2.png" width='50'/><img src= "./images/PacMan1.png" width='50'/><img src= "./images/PacMan2.png" width='50'/><img src= "./images/PacMan1.png" width='50'/><img src= "./images/PacMan2.png" width='50'/><img src= "./images/PacMan1.png" width='50'/><img src= "./images/PacMan2.png" width='50'/><img src= "./images/PacMan1.png" width='50'/><img src= "./images/PacMan2.png" width='50'/><img src= "./images/PacMan1.png" width='50'/><img src= "./images/PacMan2.png" width='50'/>
-We used the MBTA bus data to determine stops between Harvard & MIT, adding animated markers on the map to highlight bus routes.
+We are not building the full PacMan game in this activity. However, we will be building a feature of this game, which displays and moves PacMan from one side of the screen to the other.
 
 ## Steps to Run
-Ensure you have the following files downloaded from this repository onto your local machine.
+Ensure you have the following files downloaded from this repository onto your local machine and saved into the same file directory.
 <ul>
   <li>index.html</li>
-  <li>mapanimation.je</li>
-  <li>styles.css</li>
+  <li>pacman.js</li>
+  <li>images</li><i>along with all the photos in this folder</i>
 </ul>
 Drag and drop the index.html into your web browser
 
-<i>You may also use this link to preview this repository</i> &middot; <a href="https://jenniferwtam.github.io/Real-Time-Bus-Tracking
-" target="__blank">Real-Time-Bus-Tracking</a>
+<i>You may also use this link to preview this repository</i> &middot; <a href="https://jenniferwtam.github.io/Pacman-Exercise/
+" target="__blank">Pacman-Exercise</a>
 
 ## Future Improvements
 I would like to display the estimated arrival time of the busses to the subsequent stops. 
