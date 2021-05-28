@@ -24,7 +24,7 @@ I would like be able to add a yellow circle in front of Pacman's mouth to emulat
 ## License Information
 MIT License
 
-Copyright (c) 2021 John Williams
+Copyright (c) 2021 Jennifer Tam
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
